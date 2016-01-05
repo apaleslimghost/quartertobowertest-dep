@@ -1,0 +1,6 @@
+{
+  "name": "quartertobowertest-dep",
+  "dependencies": {
+    "quartertobowertest-a": "quartertobowertest-b#*"
+  }
+}
